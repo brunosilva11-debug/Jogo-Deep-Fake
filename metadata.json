@@ -1,0 +1,6 @@
+{
+  "name": "Quiz: Deep Fakes",
+  "description": "Um jogo educativo de perguntas e respostas sobre Deep Fakes e Segurança Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
